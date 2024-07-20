@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Shima Rin",
+    "Desk": "Rin Shima adalah seorang gadis dengan rambut biru panjang yang sering diikat menjadi kuncir dua. Dia menikmati ketenangan dan kedamaian yang didapatkan dari berkemah sendiri di alam bebas. Mandiri dan suka menyendiri, Rin merasa puas dengan membaca buku di sekitar api unggun. Meski lebih suka berkemah solo, dia adalah teman yang baik dan perhatian terhadap teman-temannya ketika mereka berkemah bersama.",
+    "Border" : "rin-border.jpeg",
+    "Image": "rin.png"
+  },
+  {
+    "Name": "Kagamihara Nadeshiko",
+    "Desk": "Nadeshiko Kagamihara memiliki rambut merah muda panjang dan mata besar yang penuh semangat. Dia adalah gadis yang ceria, energik, dan mudah bergaul. Keceriaan dan antusiasmenya selalu membuat suasana menjadi lebih menyenangkan. Nadeshiko sangat menyukai makanan, terutama makanan yang disiapkan saat berkemah. Dia selalu bersemangat mencoba berbagai resep masakan baru, menjadikannya teman yang menyenangkan dalam setiap petualangan berkemah.",
+    "Border" : "nadeshiko-border.jpeg",
+    "Image": "nadeshiko.png"
+  },
+  {
+    "Name": "Inuyama Aoi",
+    "Desk": "Aoi Inuyama memiliki rambut coklat panjang yang biasanya diikat menjadi dua ekor kuda. Dia adalah teman dekat Chiaki dan juga anggota klub berkemah. Aoi dikenal dengan sikapnya yang tenang dan bijaksana, sering kali bertindak sebagai penengah ketika ada perbedaan pendapat di antara teman-temannya. Dia juga memiliki selera humor yang halus dan suka menghibur teman-temannya dengan cerita-cerita lucu. Kecintaannya pada berkemah datang dari hasrat untuk mengeksplorasi alam bersama teman-temannya.",
+    "Border" : "inuyama-border.jpeg",
+    "Image": "inuyama.png"
+  },
+  {
+    "Name": "Saito Ena",
+    "Desk": "Ena Saito adalah gadis dengan rambut coklat yang sering diikat ke belakang. Dia memiliki kepribadian yang tenang dan santai, sering terlihat mengenakan pakaian nyaman dan praktis saat berkemah. Ena memiliki rasa humor yang baik dan selalu membawa suasana yang menyenangkan dalam kelompok. Meskipun tidak seantusias Nadeshiko dalam mencoba hal-hal baru, Ena tetap menikmati waktu yang dihabiskan bersama teman-temannya di alam terbuka.",
+    "Border" : "ena-border.jpeg",
+    "Image": "ena.png"
+  },
+  {
+    "Name": "Ogaki Chiaki",
+    "Desk": "Chiaki Oogaki adalah gadis dengan rambut pendek berwarna coklat yang selalu tampil penuh semangat. Dia adalah salah satu anggota aktif dari klub berkemah sekolah dan sering menjadi perencana utama dalam berbagai kegiatan berkemah kelompok mereka. Chiaki memiliki kepribadian yang ramah dan selalu berusaha membuat setiap acara berkemah menjadi pengalaman yang menyenangkan dan berkesan. Kegigihannya dalam mengorganisir kegiatan seringkali menjadi penggerak utama kelompok mereka.",
+    "Border" : "chiaki-border.jpeg",
+    "Image": "ogaki.png"
+  }
+]
